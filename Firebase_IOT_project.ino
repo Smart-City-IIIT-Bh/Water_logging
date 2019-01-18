@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 
-#define FIREBASE_HOST "agricultureiot-15069.firebaseio.com"
-#define FIREBASE_AUTH "lr37reWAOmI2NNZx4MpK8y1baqR6yNfglMRpl5N2"
+#define FIREBASE_HOST "xxxxxxxxxxxxx-15069.firebaseio.com"
+#define FIREBASE_AUTH "xxxxxxxxx-xxxxxxxxx-xxxxxxxxxxxx"
 #define WIFI_SSID "IoT_Lab"
 #define WIFI_PASSWORD "iiitbbsr"
 
